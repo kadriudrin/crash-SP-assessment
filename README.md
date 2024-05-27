@@ -1,2 +1,2 @@
-Install deps via: npm i\n
-Start client and server via: npm start\b
+Install deps via: npm i<br/>
+Start client and server together via: npm start<br/>
